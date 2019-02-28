@@ -47,6 +47,8 @@
 
 <friend name="Sorceress (Mythralis)">0x5d98c</friend>
 
+<friend name="AGirlWithNoName (Noemi)">0xef55</friend>
+
 <friend name="Generic Tamer IV (Pvpeter)">0x4bfdb</friend>
 <friend name="Generic Tamer (Pvpeter)">0x53819</friend>
 
@@ -82,7 +84,6 @@
 *********************************************************************************
 <friend name="a sphinx">0x1971</friend>
 <friend name="a phoenix">0x3376d</friend>
-<friend name="AGirlWithNoName">0xef55</friend>
 <friend name="Ambrose">0x24a92</friend>
 <friend name="Anaal Nathrakh">0xcc76</friend>
 <friend name="Anthony">0x2c72d</friend>
