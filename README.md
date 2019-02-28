@@ -13,6 +13,6 @@ Scroll down to roughly line 80, you should see the following line:
 After that line will be your current friends list (if applicable), which will be wrapped by the tags 
 > ```<friends> </friends>```
 
-Between those 2 tags, paste in the list provided here.
+Between those 2 tags, paste in the list provided here.  The top half of the list has been verified to be a rekt character, and the discord name has been added to the name.  The lower list...below the ```***********``` are characters (or pets) that people have had on their friends list.  These are not verified and should be used at your own risk, if using the whole list, take out the ```***********```.
 
 Save and restart Steam / UO.  Your friends list should be updated.
