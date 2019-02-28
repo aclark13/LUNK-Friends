@@ -20,6 +20,7 @@
 
 <friend name="Back to Basics (Celery)">0x2c9a</friend>
 <friend name="Pageboy (Celery)">0x53428</friend>
+<friend name="Get to the Body (Celery)">0x26912</friend>
 
 <friend name="Demarkal (Daerik)">0x50bfa</friend>
 <friend name="Demarkal (Daerik)">0x50bfa</friend>
@@ -27,7 +28,11 @@
 <friend name="Arsen (Diaonic)">0xa41a</friend>
 <friend name="Diaonic (Diaonic)">0x276d7</friend>
 
+<friend name="Happy Feet (Disco)">0xa86</friend>
+<friend name="Rick Ross (Disco)">0x19c5a</friend>
+
 <friend name="Duelz (duelzdoom)">0x8622</friend>
+<friend name="Lucifear (duelzdoom)">0x4651c</friend>
 
 <friend name="El'a (elladamerie)">0x5107b</friend>
 <friend name="Ella's (elladamerie)">0x43017</friend>
@@ -71,6 +76,8 @@
 
 <friend name="Pancho (Pancho)">0x1400e</friend>
 
+<friend name="Yoinks (Yoinks)">0x63625</friend>
+
 *********************************************************************************
 <friend name="a sphinx">0x1971</friend>
 <friend name="a phoenix">0x3376d</friend>
@@ -87,9 +94,7 @@
 <friend name="Calvin">0x1c7</friend>
 <friend name="Channa">0x1b9</friend>
 <friend name="Eventine">0x3db</friend>
-<friend name="Get to the Body">0x26912</friend>
 <friend name="gingko">0xc23f</friend>
-<friend name="Happy Feet">0xa86</friend>
 <friend name="Harambae">0x2e5d5</friend>
 <friend name="HarryHookini">0x2d7ae</friend>
 <friend name="Hazel">0x1c2</friend>
@@ -99,7 +104,6 @@
 <friend name="Larry David Sect">0x12a0</friend>
 <friend name="Lea">0x1c9</friend>
 <friend name="Louie Johnson">0x19e9f</friend>
-<friend name="Lucifear">0x4651c</friend>
 <friend name="Luxx">0x69494</friend>
 <friend name="Man vs Wild">0x73c08</friend>
 <friend name="Meg Griffin">0x165d0</friend>
@@ -111,7 +115,6 @@
 <friend name="Odera">0x1bd</friend>
 <friend name="Oom Out The Womb">0x10efa</friend>
 <friend name="Pork Soda">0x1b1c4</friend>
-<friend name="Rick Ross">0x19c5a</friend>
 <friend name="Rod">0x1c1</friend>
 <friend name="ShadowStone">0x3da7</friend>
 <friend name="Sumi">0x57d</friend>
@@ -120,5 +123,4 @@
 <friend name="The Weeknd">0x23e5d</friend>
 <friend name="Waterboy">0x283fe</friend>
 <friend name="Wendigo">0x14ce6</friend>
-<friend name="Yoinks">0x63625</friend>
 <friend name="Your Demon">0x969c</friend>
