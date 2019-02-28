@@ -3,7 +3,7 @@ Close out all UO / Steam related processes
 
 Navigate to your UO Steam file for Outlands.  
 The path should be:
-C:\Program Files (x86)\Outlands Ultima Online\Steam\Profiles
+> C:\Program Files (x86)\Outlands Ultima Online\Steam\Profiles
 
 Open the XML Steam profile you'd like to add the friends list to. (I used Notepad++ for code colors and ease of use)
 Scroll down to roughly line 80, you should see the following line:
