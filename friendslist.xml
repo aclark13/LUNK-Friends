@@ -103,7 +103,7 @@
 
 <friend name="Pancho (Pancho)">0x1400e</friend>
 
-<friend name="Yoinks (Yoinks)">0x63625</friend>
+<friend name="Yoinks (Yoink)">0x63625</friend>
 
 *********************************************************************************
 <friend name="a sphinx">0x1971</friend>
@@ -113,7 +113,6 @@
 <friend name="Atman">0x1ba</friend>
 <friend name="Aynora">0x1c6</friend>
 <friend name="Bayani">0x53428</friend>
-<friend name="BlackJackMuligan">0x3042c</friend>
 <friend name="BudweiserAllday">0x38e49</friend>
 <friend name="Calvin">0x1c7</friend>
 <friend name="Channa">0x1b9</friend>
