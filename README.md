@@ -23,9 +23,7 @@ Save and restart Steam / UO.  Your friends list should be updated.
 In UO Steam go to the "Macros" tab and click on "Object Inspector".  
 ![Object Inspector](https://i.postimg.cc/852JyRrg/Object-Inspector.png)
 
-This will bring up a targeting cursor in UO.
-
-Target your charater, or any alt that you'd like to add to the list
+This will bring up a targeting cursor in UO.  Target your charater, or any alt that you'd like to add to the list
 ![Targer](https://i.postimg.cc/m2G1CSsQ/target.png)
 
 When the "Object Inspector" box pops up, note the Serial for your character.  You can copy this by using "ctrl+v"
