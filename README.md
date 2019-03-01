@@ -31,7 +31,7 @@ Target your charater, or any alt that you'd like to add to the list
 When the "Object Inspector" box pops up, note the Serial for your character.  You can copy this by using "ctrl+v"
 ![Inspector Window](https://i.postimg.cc/T2bWK4Zd/serial.png)
 
-
+## Submitting your character to the list
 You can either send me a screen shot of your character paperdoll (name) and the object inspector (serial), or you can format it for the list, and send me that.  The format is:
 > ```<friend name="CHAR-NAME (DISCORD NAME)">SERIAL</friend>```
 
