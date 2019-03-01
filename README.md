@@ -34,4 +34,6 @@ When the "Object Inspector" box pops up, note the Serial for your character.  Yo
 ## Submitting your character to the list
 You can either send me a screen shot of your character paperdoll (name) and the object inspector (serial), or you can format it for the list, and send me that.  The format is:
 > ```<friend name="CHAR-NAME (DISCORD NAME)">SERIAL</friend>```
+Example:
+> ```<friend name="Ace Mason (Ace Mason)">0xe699</friend>```
 
