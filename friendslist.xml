@@ -96,20 +96,24 @@
 
 <friend name="Yoinks (Yoink)">0x63625</friend>
 
-<friend name="a bean flicker (DubbsG - 1CE)">0x3be4a</friend>
-<friend name="DubbzG (DubbsG - H8R)">0x308f7</friend>
-<friend name="Lava Blossom (DubbsG - 1CE)">0x2a6ab</friend>
-
 <friend name="Rio Reiser (RioReiser - c2w)">0x9f71</friend>
 <friend name="Art Vandelay (RioReiser - c2w)">0x2baa</friend>
 
 <friend name="Abyssal (clx - [A])">0x4af3c</friend>
 <friend name="Stalingrad (clx - [A])">0x309e</friend>
-<friend name="Hiraeth (clx - [A])">0x7b22</friend>        
+<friend name="Hiraeth (clx - [A])">0x7b22</friend>
+
+<friend name="Bayonet (Codex [A])">0x6b2f</friend>
+<friend name="Bayonette (Codex [A])">0x2744e</friend>   
+<friend name="Sentimental Vine (Codex [A])">0xd393</friend>
 
 <friend name="Punk.beach (Punkbeach - 1CE)">0x7c6ecL</friend>
 <friend name="Punkbeac.h (Punk.beach - 1CE)">0x46cf7</friend>
 <friend name="Vile Punkbeach (Punk.beach - 1CE)">0xf5672</friend>
+
+<friend name="a bean flicker (DubbsG - 1CE)">0x3be4a</friend>
+<friend name="DubbzG (DubbsG - H8R)">0x308f7</friend>
+<friend name="Lava Blossom (DubbsG - 1CE)">0x2a6ab</friend>
 
 *********************************************************************************
 <friend name="a sphinx">0x1971</friend>
