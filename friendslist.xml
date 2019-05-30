@@ -39,6 +39,8 @@
 
 <friend name="Ozymandias (Jewele)">0x836</friend>
 
+<friend name="Meg Griffin (Mapguy/Griffins)">0x165d0</friend>
+
 <friend name="Mary Ruthless (Mary Ruthless)">0x2c90</friend>
 <friend name="Mary Ruthlass (Mary Ruthless)">0x2d67</friend>
 <friend name="Mary Ruthluss (Mary Ruthless)">0x2e7d</friend>
@@ -50,11 +52,15 @@
 
 <friend name="Sorceress (Mythralis)">0x5d98c</friend>
 
+<friend name="Killer Queen (Potion Commotion)">0x2b5a</friend>
+<friend name="Wendigo (Potion Commotion)">0x14ce6</friend>
+
 <friend name="Generic Tamer IV (Pvpeter)">0x4bfdb</friend>
 <friend name="Generic Tamer (Pvpeter)">0x53819</friend>
 
 <friend name="Schmorty (Schmorty)">0x4f01</friend>
 
+<friend name="Man vs Wild (Seagate)">0x73c08</friend>
 <friend name="Snovit (Seagate)">0x1d1fd</friend>
 <friend name="Taming Steve (Seagate)">0x15eed</friend>
 
@@ -98,12 +104,9 @@
 <friend name="Hazel">0x1c2</friend>
 <friend name="Isis">0x23194</friend>
 <friend name="Kesi">0x1c5</friend>
-<friend name="Killer Queen (Potion Commotion?)">0x2b5a</friend>
 <friend name="Larry David Sect">0x12a0</friend>
 <friend name="Lea">0x1c9</friend>
 <friend name="Luxx">0x69494</friend>
-<friend name="Man vs Wild (Seagate?)">0x73c08</friend>
-<friend name="Meg Griffin (Mapguy/Griffins?)">0x165d0</friend>
 <friend name="Megara">0x1c8</friend>
 <friend name="Morningstar">0x10802e</friend>
 <friend name="Narishma">0x6431</friend>
@@ -114,5 +117,4 @@
 <friend name="Sumi">0x57d</friend>
 <friend name="Syna">0x7de4e</friend>
 <friend name="Waterboy">0x283fe</friend>
-<friend name="Wendigo (Potion Commotion?)">0x14ce6</friend>
 <friend name="Your Demon">0x969c</friend>
