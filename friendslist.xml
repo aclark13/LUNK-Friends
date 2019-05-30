@@ -103,9 +103,18 @@
 <friend name="Rio Reiser (RioReiser - c2w)">0x9f71</friend>
 <friend name="Art Vandelay (RioReiser - c2w)">0x2baa</friend>
 
+<friend name="Balgami (Z - [A])">0x2974</friend>
+<friend name="Balgamic Vinegar (Z - [A])">0xa5ccd</friend>
+<friend name="Mikhail Bakunin (Z - [A])">0x36b1c</friend>  
 <friend name="Abyssal (clx - [A])">0x4af3c</friend>
 <friend name="Stalingrad (clx - [A])">0x309e</friend>
-<friend name="Hiraeth (clx - [A])">0x7b22</friend>        
+<friend name="Hiraeth (clx - [A])">0x7b22</friend> 
+<friend name="gowilla hand (DLB - [A])">0x30837</friend>
+<friend name="spirit of riak (DLB - [A])">0xc8688</friend>
+<friend name="Bayonet (Codex - [A])">0x6b2f</friend>
+<friend name="Bayonette (Codex - [A])">0x2744e</friend>
+<friend name="Sentimental Vine (Codex - [A])">0xd393</friend>
+
 
 <friend name="Punk.beach (Punkbeach - 1CE)">0x7c6ecL</friend>
 <friend name="Punkbeac.h (Punk.beach - 1CE)">0x46cf7</friend>
@@ -139,7 +148,3 @@
 <friend name="Syna">0x7de4e</friend>
 <friend name="Waterboy">0x283fe</friend>
 <friend name="Your Demon">0x969c</friend>
-
-<friend name="Balgami (Z - Anarchy)">0x2974</friend>
-<friend name="Balgamic Vinegar (Z - Anarchy)">0xa5ccd</friend>
-<friend name="Mikhail Bakunin (Z - Anarchy)">0x36b1c</friend>
