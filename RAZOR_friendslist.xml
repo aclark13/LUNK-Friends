@@ -60,7 +60,9 @@
 <friend serial="0x14ce6" name="Wendigo (Potion Commotion)" />
 <friend serial="0x4bfdb" name="Generic Tamer IV (Pvpeter)" />
 <friend serial="0x53819" name="Generic Tamer (Pvpeter)" />
+<friend serial="0x8aeec" name="Diddledick McGee (Schmorty)" />
 <friend serial="0x4f01" name="Schmorty (Schmorty)" />
+<friend serial="0x30de" name="Frick (Schmorty)" />
 <friend serial="0x73c08" name="Man vs Wild (Seagate)" />
 <friend serial="0x1d1fd" name="Snovit (Seagate)" />
 <friend serial="0x15eed" name="Taming Steve (Seagate)" />
@@ -69,6 +71,9 @@
 <friend serial="0x24b3" name="Slippery Whn Wet (Sir Bart)" />
 <friend serial="0x2e5d5" name="Harambae (Silverback)" />
 <friend serial="0x1fa09" name="not dravek (Silverback)" />
+<friend serial="0x3121" name="Johnny Drama (Silverback)" />
+<friend serial="0x2d05" name="Silverback (Silverback)" />
+<friend serial="0x33478" name="tofu (Silverback)" />
 <friend serial="0x8ba8" name="SilverWolfe (SilverWolfe)" />
 <friend serial="0x309f" name="XSilverWolfeX (SilverWolfe)" />
 <friend serial="0x2952c" name="XXSilverWolfeXX (SilverWolfe)" />
@@ -105,6 +110,8 @@
 <friend serial="0x6b2f" name="Bayonet (Codex - [A])" />
 <friend serial="0x2744e" name="Bayonette (Codex - [A])" />
 <friend serial="0xd393" name="Sentimental Vine (Codex - [A])" />
+<friend serial="0xd0a13" name="cucadoodledo (Chapo - [A])" />
+<friend serial="0xd1c" name="El cabrone (Chapo - [A])" />
 <friend serial="0x7c6ecL" name="Punk.beach (Punkbeach - 1CE)" />
 <friend serial="0x46cf7" name="Punkbeac.h (Punk.beach - 1CE)" />
 <friend serial="0xf5672" name="Vile Punkbeach (Punk.beach - 1CE)" />
