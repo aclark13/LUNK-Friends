@@ -15,9 +15,11 @@ Scroll down to roughly line 80, you should see the following line:
 After that line will be your current friends list (if applicable), which will be wrapped by the tags 
 > ```<friends> </friends>```
 
-Between those 2 tags, paste in the list provided here.  The top half of the list has been verified to be a rekt character, and the discord name has been added to the name.  The lower list...below the ```***********``` are characters (or pets) that people have had on their friends list.  These are not verified and should be used __**at your own risk**__. *If using the whole list, take out the ```***********```.*
+Between those 2 tags, paste in the list provided here.  This list has been verified to only include rekt/alliace characters, and everyone's discord name has been added to the name. 
 
 Save and restart Steam / UO.  Your friends list should be updated.
+
+*NOTE: If you get an error about not being able to save the file, try saving it to your desktop and then dragging it over to your Steam folder.  This happens when you don't have proper admin priviliges.*
 
 ## How to pull your character information
 In UO Steam go to the "Macros" tab and click on "Object Inspector".  
