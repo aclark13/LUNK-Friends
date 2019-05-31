@@ -2,6 +2,7 @@
 <friend serial="0x43407" name="a rideable llama (a rideable llama)" />
 <friend serial="0x62888" name="Sir Helps Alot (Arch)" />
 <friend serial="0x4b5d4" name="Social Tamer (Arch)" />
+<friend serial="0x969c" name="Your Demon (Arch)" />
 <friend serial="0xe699" name="Ace Mason (Ace Mason)" />
 <friend serial="0x5e5c0" name="Dreidel Spinna (Ace Mason)" />
 <friend serial="0xbd140" name="Enzo Feenix (Ace Mason)" />
@@ -15,6 +16,7 @@
 <friend serial="0x67ed" name="Gypsy Danger (Cetric)" />
 <friend serial="0x584" name="Alpha Nightshade (Cetric)" />
 <friend serial="0x5ba7d" name="Gypsy Dangerous (Cetric)" />
+<friend serial="0x3eab8" name="Daerik (Daerik)" />
 <friend serial="0x50bfa" name="Demarkal (Daerik)" />
 <friend serial="0xa41a" name="Arsen (Diaonic)" />
 <friend serial="0x276d7" name="Diaonic (Diaonic)" />
@@ -40,6 +42,8 @@
 <friend serial="0x433a" name="Dravek's Groupie (Mary Ruthless)" />
 <friend serial="0x2f53" name="Ya Mama (Mary Ruthless)" />
 <friend serial="0x5d98c" name="Sorceress (Mythralis)" />
+<friend serial="0x1e204" name="Vash TheStampede (Nikar0)" />
+<friend serial="0x14649" name="Oceana (Nikar0)" />
 <friend serial="0x2b5a" name="Killer Queen (Potion Commotion)" />
 <friend serial="0x14ce6" name="Wendigo (Potion Commotion)" />
 <friend serial="0x4bfdb" name="Generic Tamer IV (Pvpeter)" />
@@ -71,7 +75,7 @@
 <friend serial="0x2b3a2" name="BabyShark (Akasha - HERO)" />
 <friend serial="0xed56" name="Try Hard (Akasha - HERO)" />
 <friend serial="0x6431" name="Narishma (Akasha - HERO)" />
-<friend serial="0x13d0d" name="Sovari Viridiana (Akasha - HERO)" />
+<friend serial="0x13d0d" name="Viridiana Sovari (Akasha - HERO)" />
 <friend serial="0x9f71" name="Rio Reiser (RioReiser - c2w)" />
 <friend serial="0x2baa" name="Art Vandelay (RioReiser - c2w)" />
 <friend serial="0x21572" name="Link-uog (Link- c2w)" />
@@ -109,3 +113,4 @@
 <friend serial="0xaed14" name="J G Wentworth (CrunkJuice - 1CE)" />
 <friend serial="0x13f83" name="Crunk Juice (CrunkJuice - 1CE)" />
 <friend serial="0xcdc58" name="Neiman Marcus (CrunkJuice - 1CE)" />
+<friend serial="0x248b5" name="Pink Butterfly (Cassandra - ?)" />
