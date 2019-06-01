@@ -85,7 +85,17 @@
 <friend serial="0x2825f" name="Trygve (Tyson)" />
 <friend serial="0x1b2b9" name="Lucky Nephew (Padondong)" />
 <friend serial="0x753a" name="Padongdong (Padongdong)" />
+<friend serial="0x12abfc" name="Pube (Pube)" />
+<friend serial="0x3c485" name="Little Yoinkz (Yoink)" />
+<friend serial="0x15bc" name="Yoinkz (Yoink)" />
+<friend serial="0x8c30c" name="Little Yoink (Yoink)" />
+<friend serial="0x3baf6" name="Little Yoinks (Yoink)" />
 <friend serial="0x63625" name="Yoinks (Yoink)" />
+<friend serial="0x3f860" name="Refract (Yoink)" />
+<friend serial="0xe38" name="Lucky Yoink (Yoink)" />
+<friend serial="0x13001" name="Yoink (Yoink)" />
+<friend serial="0x237c" name="Lucky Yoinkz (Yoink)" />
+<friend serial="0x78c8" name="Lucky Yoinks (Yoink)" />
 <friend serial="0x938be" name="Akasha (Akasha - HERO)" />
 <friend serial="0x6685b" name="Reviled (Akasha - HERO)" />
 <friend serial="0x25188" name="Luna Belle (Akasha - HERO)" />
@@ -93,6 +103,13 @@
 <friend serial="0xed56" name="Try Hard (Akasha - HERO)" />
 <friend serial="0x6431" name="Narishma (Akasha - HERO)" />
 <friend serial="0x13d0d" name="Viridiana Sovari (Akasha - HERO)" />
+<friend serial="0x75d52" name="Dravek Ball Z (Slick - Lunk)" />
+<friend serial="0x68ca" name="Fifteenth Gender (Slick - Lunk)" />
+<friend serial="0x5428b" name="Litty McSwaggins (Slick - Lunk)" />
+<friend serial="0x17c3" name="HashtagSMOKED (Slick - Lunk)" />
+<friend serial="0x58a52" name="CaptainMindblast (Slick - Lunk)" />
+<friend serial="0x54735" name="Joy Behar (Slick - Lunk)" />
+<friend serial="0x70d0" name="Grey (Grey - c2w)" />
 <friend serial="0x9f71" name="Rio Reiser (RioReiser - c2w)" />
 <friend serial="0x2baa" name="Art Vandelay (RioReiser - c2w)" />
 <friend serial="0x21572" name="Link-uog (Link- c2w)" />
@@ -112,8 +129,23 @@
 <friend serial="0xd393" name="Sentimental Vine (Codex - [A])" />
 <friend serial="0xd0a13" name="cucadoodledo (Chapo - [A])" />
 <friend serial="0xd1c" name="El cabrone (Chapo - [A])" />
+<friend serial="0x9e67" name="Satanas (Lnomer - [A])" />
+<friend serial="0xab95a" name="Anarchy is Order (Lnomer - [A])" />
+<friend serial="0x29a2" name="Rextacy (Rextacy - [A])" />
+<friend serial="0xffbf" name="Wickedly Vile (Rextacy - [A])" />
+<friend serial="0x8089" name="Alexandra (Alex - M)" />
+<friend serial="0x82ce" name="Braxa (Alex - M)" />
+<friend serial="0x836a" name="Alexa (Alex - M)" />
+<friend serial="0x18911" name="Pinto Bean (Beanya - 1CE)" />
+<friend serial="0x2b2e0" name="Soulless Ginger (Beanya - 1CE)" />
+<friend serial="0x207b6" name="Untameable (Aceburton - 1CE)" />
+<friend serial="0x27ff" name="Whitey Bulger (Aceburton - 1CE)" />
+<friend serial="0x4781f" name="a dirty old man (Aceburton - 1CE)" />
+<friend serial="0x28911" name="Jack Torrance (Aceburton - 1CE)" />
+<friend serial="0x4183d" name="KrishTamer (Krishna - 1CE)" />
+<friend serial="0x6121" name="KrishRanger (Krishna - 1CE)" />
 <friend serial="0x7c6ecL" name="Punk.beach (Punkbeach - 1CE)" />
-<friend serial="0x46cf7" name="Punkbeac.h (Punk.beach - 1CE)" />
+<friend serial="0x7c6ec" name="Punkbeac.h (Punk.beach - 1CE)" />
 <friend serial="0xf5672" name="Vile Punkbeach (Punk.beach - 1CE)" />
 <friend serial="0x3be4a" name="a bean flicker (DubbsG - 1CE)" />
 <friend serial="0x308f7" name="DubbzG (DubbsG - H8R)" />
@@ -133,4 +165,8 @@
 <friend serial="0xaed14" name="J G Wentworth (CrunkJuice - 1CE)" />
 <friend serial="0x13f83" name="Crunk Juice (CrunkJuice - 1CE)" />
 <friend serial="0xcdc58" name="Neiman Marcus (CrunkJuice - 1CE)" />
-<friend serial="0x248b5" name="Pink Butterfly (Cassandra - ?)" />
+<friend serial="0x248b5" name="Pink Butterfly (Cassandra - 1CE)" />
+<friend serial=" 0x9ae91" name="Yuukionna (Micmatty - 1CE)" />
+<friend serial=" 0x400b0" name="BlackStarr (Micmatty - 1CE)" />
+<friend serial="0xe91d" name="Don West (battleaxebill - 1CE)" />
+<friend serial="0xf111" name="Max Dickson (battleaxebill - 1CE)" />
