@@ -115,6 +115,8 @@
 <friend name="Lucky Nephew (Padondong)">0x1b2b9</friend>
 <friend name="Padongdong (Padongdong)">0x753a</friend>
 
+<friend name="Pube (Pube)">0x12abfc</friend>
+
 <friend name="Little Yoinkz (Yoink)">0x3c485</friend>
 <friend name="Yoinkz (Yoink)">0x15bc</friend>
 <friend name="Little Yoink (Yoink)">0x8c30c</friend>
@@ -133,6 +135,15 @@
 <friend name="Try Hard (Akasha - HERO)">0xed56</friend>
 <friend name="Narishma (Akasha - HERO)">0x6431</friend>
 <friend name="Viridiana Sovari (Akasha - HERO)">0x13d0d</friend>
+
+<friend name="Dravek Ball Z (Slick - Lunk)">0x75d52</friend>
+<friend name="Fifteenth Gender (Slick - Lunk)">0x68ca</friend>
+<friend name="Litty McSwaggins (Slick - Lunk)">0x5428b</friend>
+<friend name="HashtagSMOKED (Slick - Lunk)">0x17c3</friend>
+<friend name="CaptainMindblast (Slick - Lunk)">0x58a52</friend>
+<friend name="Joy Behar (Slick - Lunk)">0x54735</friend>
+
+<friend name="Grey (Grey - c2w)">0x70d0</friend>
 
 <friend name="Rio Reiser (RioReiser - c2w)">0x9f71</friend>
 <friend name="Art Vandelay (RioReiser - c2w)">0x2baa</friend>
@@ -163,15 +174,26 @@
 <friend name="Satanas (Lnomer - [A])">0x9e67</friend> 
 <friend name="Anarchy is Order (Lnomer - [A])">0xab95a</friend>
 
-<friend name="KrishTamer (Krishna - [A])">0x4183d</friend>
-<friend name="KrishRanger (Krishna - [A])">0x6121</friend>
+<friend name="Rextacy (Rextacy - [A])">0x29a2</friend>
+<friend name="Wickedly Vile (Rextacy - [A])">0xffbf</friend>
 
 <friend name="Alexandra (Alex - M)">0x8089</friend>
 <friend name="Braxa (Alex - M)">0x82ce</friend>
 <friend name="Alexa (Alex - M)">0x836a</friend>
 
+<friend name="Pinto Bean (Beanya - 1CE)">0x18911</friend>   
+<friend name="Soulless Ginger (Beanya - 1CE)">0x2b2e0</friend>
+
+<friend name="Untameable (Aceburton - 1CE)">0x207b6</friend>
+<friend name="Whitey Bulger (Aceburton - 1CE)">0x27ff</friend>
+<friend name="a dirty old man (Aceburton - 1CE)">0x4781f</friend>
+<friend name="Jack Torrance (Aceburton - 1CE)">0x28911</friend>
+
+<friend name="KrishTamer (Krishna - 1CE)">0x4183d</friend>
+<friend name="KrishRanger (Krishna - 1CE)">0x6121</friend>
+
 <friend name="Punk.beach (Punkbeach - 1CE)">0x7c6ecL</friend>
-<friend name="Punkbeac.h (Punk.beach - 1CE)">0x46cf7</friend>
+<friend name="Punkbeac.h (Punk.beach - 1CE)">0x7c6ec</friend>
 <friend name="Vile Punkbeach (Punk.beach - 1CE)">0xf5672</friend>
 
 <friend name="a bean flicker (DubbsG - 1CE)">0x3be4a</friend>
@@ -203,11 +225,3 @@
 
 <friend name="Don West (battleaxebill - 1CE)">0xe91d</friend>
 <friend name="Max Dickson (battleaxebill - 1CE)">0xf111</friend>
-
-<friend name="Rextacy (Rextacy - ?)">0x29a2</friend>
-<friend name="Wickedly Vile (Rextacy - ?)">0xffbf</friend>
-
-<friend name="Grey (Grey - ?)">0x70d0</friend>
-
-
-
