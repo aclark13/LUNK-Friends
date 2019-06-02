@@ -28,6 +28,8 @@
 <friend serial="0x67ed" name="Gypsy Danger (Cetric)" />
 <friend serial="0x584" name="Alpha Nightshade (Cetric)" />
 <friend serial="0x5ba7d" name="Gypsy Dangerous (Cetric)" />
+<friend serial="0x11825" name="Fonsie (CraigsHere)" />
+<friend serial="0x8c500" name="Sprinkles (Buttertoast)" />
 <friend serial="0x3eab8" name="Daerik (Daerik)" />
 <friend serial="0x50bfa" name="Demarkal (Daerik)" />
 <friend serial="0xa41a" name="Arsen (Diaonic)" />
@@ -86,6 +88,8 @@
 <friend serial="0x1b2b9" name="Lucky Nephew (Padondong)" />
 <friend serial="0x753a" name="Padongdong (Padongdong)" />
 <friend serial="0x12abfc" name="Pube (Pube)" />
+<friend serial="0x501e6" name="Papa Pump (Pube)" />
+<friend serial="0x2c737" name="Sokrates (Pube)" />
 <friend serial="0x3c485" name="Little Yoinkz (Yoink)" />
 <friend serial="0x15bc" name="Yoinkz (Yoink)" />
 <friend serial="0x8c30c" name="Little Yoink (Yoink)" />
@@ -103,6 +107,9 @@
 <friend serial="0xed56" name="Try Hard (Akasha - HERO)" />
 <friend serial="0x6431" name="Narishma (Akasha - HERO)" />
 <friend serial="0x13d0d" name="Viridiana Sovari (Akasha - HERO)" />
+<friend serial="0x27d9" name="Dravek (Dravek - Lunk)" />
+<friend serial="0xa16ac" name="Kurt Angle (Dravek - Lunk)" />
+<friend serial="0x3542a" name="The Great One (Dravek - Lunk)" />
 <friend serial="0x75d52" name="Dravek Ball Z (Slick - Lunk)" />
 <friend serial="0x68ca" name="Fifteenth Gender (Slick - Lunk)" />
 <friend serial="0x5428b" name="Litty McSwaggins (Slick - Lunk)" />
@@ -133,6 +140,8 @@
 <friend serial="0xab95a" name="Anarchy is Order (Lnomer - [A])" />
 <friend serial="0x29a2" name="Rextacy (Rextacy - [A])" />
 <friend serial="0xffbf" name="Wickedly Vile (Rextacy - [A])" />
+<friend serial="0x55ea8" name="Cobrinha (PaxRomain - [A])" />
+<friend serial="0x3a197" name="that old wizard (PaxRomain - [A])" />
 <friend serial="0x8089" name="Alexandra (Alex - M)" />
 <friend serial="0x82ce" name="Braxa (Alex - M)" />
 <friend serial="0x836a" name="Alexa (Alex - M)" />
@@ -144,6 +153,9 @@
 <friend serial="0x28911" name="Jack Torrance (Aceburton - 1CE)" />
 <friend serial="0x4183d" name="KrishTamer (Krishna - 1CE)" />
 <friend serial="0x6121" name="KrishRanger (Krishna - 1CE)" />
+<friend serial="0x1e262" name="Maiek (Jun - 1CE)" />
+<friend serial="0x5cd58" name="Jun (Jun - 1CE)" />
+<friend serial="0x8a3fc" name="Jun. (Jun - 1CE)" />
 <friend serial="0x7c6ecL" name="Punk.beach (Punkbeach - 1CE)" />
 <friend serial="0x7c6ec" name="Punkbeac.h (Punk.beach - 1CE)" />
 <friend serial="0xf5672" name="Vile Punkbeach (Punk.beach - 1CE)" />
@@ -170,3 +182,7 @@
 <friend serial=" 0x400b0" name="BlackStarr (Micmatty - 1CE)" />
 <friend serial="0xe91d" name="Don West (battleaxebill - 1CE)" />
 <friend serial="0xf111" name="Max Dickson (battleaxebill - 1CE)" />
+<friend serial="0x14046" name="TrammaLicious (Grizzly - 1CE)" />
+<friend serial="0x413e" name="AnaphyLacticC (Grizzly - 1CE)" />
+<friend serial="0x4707" name="a GrizZly (Grizzly - 1CE)" />
+<friend serial="0x63d8" name="KrypTek (Grizzly - 1CE)" />
