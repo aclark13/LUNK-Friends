@@ -116,12 +116,6 @@
 <friend serial="0x17c3" name="HashtagSMOKED (Slick - Lunk)" />
 <friend serial="0x58a52" name="CaptainMindblast (Slick - Lunk)" />
 <friend serial="0x54735" name="Joy Behar (Slick - Lunk)" />
-<friend serial="0x70d0" name="Grey (Grey - c2w)" />
-<friend serial="0x9f71" name="Rio Reiser (RioReiser - c2w)" />
-<friend serial="0x2baa" name="Art Vandelay (RioReiser - c2w)" />
-<friend serial="0x21572" name="Link-uog (Link- c2w)" />
-<friend serial="0x2c308" name="ezpz (Link- c2w)" />
-<friend serial="0xe6ee" name="p k (Link- c2w)" />
 <friend serial="0x2974" name="Balgami (Z - [A])" />
 <friend serial="0xa5ccd" name="Balgamic Vinegar (Z - [A])" />
 <friend serial="0x36b1c" name="Mikhail Bakunin (Z - [A])" />
@@ -156,7 +150,7 @@
 <friend serial="0x1e262" name="Maiek (Jun - 1CE)" />
 <friend serial="0x5cd58" name="Jun (Jun - 1CE)" />
 <friend serial="0x8a3fc" name="Jun. (Jun - 1CE)" />
-<friend serial="0x7c6ecL" name="Punk.beach (Punkbeach - 1CE)" />
+<friend serial="0x7c6ec" name="Punk.beach (Punkbeach - 1CE)" />
 <friend serial="0x7c6ec" name="Punkbeac.h (Punk.beach - 1CE)" />
 <friend serial="0xf5672" name="Vile Punkbeach (Punk.beach - 1CE)" />
 <friend serial="0x3be4a" name="a bean flicker (DubbsG - 1CE)" />
