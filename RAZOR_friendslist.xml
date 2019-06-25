@@ -115,6 +115,11 @@
 <friend serial="0xed56" name="Try Hard (Akasha - HERO)" />
 <friend serial="0x6431" name="Narishma (Akasha - HERO)" />
 <friend serial="0x13d0d" name="Viridiana Sovari (Akasha - HERO)" />
+<friend serial="0x8995" name="Boosoof (Adventurer's Anonymous (AA) - HERO)" />
+<friend serial="0x21d3f" name="Ella Nightshade (Adventurer's Anonymous (AA) - HERO)" />
+<friend serial="0x20563" name="Mint (Adventurer's Anonymous (AA) - HERO)" />
+<friend serial="0x2d5c5" name="Greed (Adventurer's Anonymous (AA) - HERO)" />
+<friend serial="0x48d3" name="Jax (Adventurer's Anonymous (A*A) - HERO)" />
 <friend serial="0x27d9" name="Dravek (Dravek - Lunk)" />
 <friend serial="0xa16ac" name="Kurt Angle (Dravek - Lunk)" />
 <friend serial="0x3542a" name="The Great One (Dravek - Lunk)" />
@@ -128,8 +133,7 @@
 <friend serial="0x2d85b" name="KK Slider (wookieefeet - TRSH)" />
 <friend serial="0x21b" name="Markus Kruber (wookieefeet - TRSH)" />
 <friend serial="0x12133" name="Sir Kruber (wookieefeet - TRSH)" />
-<friend serial="0x8995" name="Boosoof (Adventurer's Anonymous (AA))" />
-<friend serial="0x21d3f" name="Ella Nightshade (Adventurer's Anonymous (AA))" />
-<friend serial="0x20563" name="Mint (Adventurer's Anonymous (AA))" />
-<friend serial="0x2d5c5" name="Greed (Adventurer's Anonymous (AA))" />
-<friend serial="0x48d3" name="Jax (Adventurer's Anonymous (A*A))" />
+<friend serial="0x58721" name="Vrenmar (Vrenmar - TRSH)" />
+<friend serial="0x1141de" name="Haedrig (Vrenmar - TRSH)" />
+<friend serial="0x3d889" name="Aeanon (Vrenmar - TRSH)" />
+<friend serial="0x28349" name="Ragemaster (Vrenmar - TRSH)" />
